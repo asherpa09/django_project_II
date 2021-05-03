@@ -1,0 +1,33 @@
+.wrapper{
+    margin: 0px auto;
+    width: 70%;
+}
+
+.formleft{
+    display: inline-block;
+    margin-left: 30%;
+}
+
+.formright{
+    display: inline-block;
+}
+
+.footer{
+    display: inline-block;
+    margin-left: 40%;
+}
+
+label{
+    display: block;
+}
+
+input{
+    display: inline;
+}
+hr{
+    width: 50%;
+}
+
+button{
+    display: block;
+}
